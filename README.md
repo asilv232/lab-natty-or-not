@@ -23,19 +23,10 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Foi elaborado um código na linguagem Python de visão computacional utilizando a rede YOLO (You Only Look Once) para identificar no video os generos(masculino e feminino.
+Considerando o tempo disponível para finalizar o projeto não foi possível trabalhar no treinamento e refinamento do código para obter um melhor resultado.
+0 comments on commit 2b5c3f2
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
 ### Exemplos e Insigths
